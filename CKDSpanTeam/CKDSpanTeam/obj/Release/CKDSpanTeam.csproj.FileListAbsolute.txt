@@ -1,0 +1,12 @@
+C:\TzuchiWeb\CKDSpanTeam\CKDSpanTeam\bin\Release\CKDSpanTeam.exe.config
+C:\TzuchiWeb\CKDSpanTeam\CKDSpanTeam\bin\Release\CKDSpanTeam.exe
+C:\TzuchiWeb\CKDSpanTeam\CKDSpanTeam\bin\Release\CKDSpanTeam.pdb
+C:\TzuchiWeb\CKDSpanTeam\CKDSpanTeam\obj\Release\CKDSpanTeam.csproj.AssemblyReference.cache
+C:\TzuchiWeb\CKDSpanTeam\CKDSpanTeam\obj\Release\CKDSpanTeam.csproj.SuggestedBindingRedirects.cache
+C:\TzuchiWeb\CKDSpanTeam\CKDSpanTeam\obj\Release\CKDSpanTeam.FormCKD.resources
+C:\TzuchiWeb\CKDSpanTeam\CKDSpanTeam\obj\Release\CKDSpanTeam.FormMain.resources
+C:\TzuchiWeb\CKDSpanTeam\CKDSpanTeam\obj\Release\CKDSpanTeam.Properties.Resources.resources
+C:\TzuchiWeb\CKDSpanTeam\CKDSpanTeam\obj\Release\CKDSpanTeam.csproj.GenerateResource.cache
+C:\TzuchiWeb\CKDSpanTeam\CKDSpanTeam\obj\Release\CKDSpanTeam.csproj.CoreCompileInputs.cache
+C:\TzuchiWeb\CKDSpanTeam\CKDSpanTeam\obj\Release\CKDSpanTeam.exe
+C:\TzuchiWeb\CKDSpanTeam\CKDSpanTeam\obj\Release\CKDSpanTeam.pdb
